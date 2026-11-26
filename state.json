@@ -1,1 +1,1 @@
-{"projects":{},"requests":{},"schema":1,"seq":0}
+{"authority_installation":{"heads":{"SYNTHETIC-APP-READINESS-SNAPSHOT":[1,"2c3ee9337c20a8d277bbd6286fd2513f56d8d56ad5342074f171a89c6a5bb30f"]},"installation_id":"14c4ed8f576b4dea9ad3b4e6793fecaf","instance_ref":"P1-02-APP-READINESS-01","kind":"AUTHORITY_INSTALLATION","project_ref":"P1-02-APP-READINESS","request_id":"AUTHORITY-INSTALLATION","schema":1},"authority_versions":{"SYNTHETIC-APP-READINESS-SNAPSHOT":[1,"2c3ee9337c20a8d277bbd6286fd2513f56d8d56ad5342074f171a89c6a5bb30f"]},"projects":{},"requests":{},"schema":1,"seq":1}
